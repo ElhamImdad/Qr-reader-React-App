@@ -1,3 +1,6 @@
+# Qr-reader-React-App
+create Qr reader using webcam and google map
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
